@@ -30,7 +30,7 @@ const Testimonials = () => {
             <div className="flex items-center mb-4">
               <div className="w-12 h-12 mr-4">
                 <img 
-                  src="/api/placeholder/48/48" 
+                  src="/" 
                   alt="Robert Mason" 
                   className="rounded-full"
                 />

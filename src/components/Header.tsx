@@ -14,7 +14,7 @@ const Header = () => {
         </span>
       </div>
       <Button variant="default" className="bg-black text-white rounded-full px-6 py-6 hover:bg-luxury-purple transition-colors">
-        Download Your App
+        Download App
       </Button>
     </header>
   );
